@@ -32,7 +32,7 @@ def revancha():
         elif opcion in {"si", "sí", "ok", "ya", "dale", "vale", "yes", "s", "y"}:
             return True
         else:
-            print(">machien: Adiós")
+            print(">machiene: Adiós")
             return False
 
 # correr juego
